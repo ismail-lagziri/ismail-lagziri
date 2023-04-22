@@ -15,14 +15,6 @@
 </a>
 </p>
 
-
-<div style="display: flex; justify-content: center;">
-  <div style="width: 500px;">
-    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ismail-lagziri&card_width=450)](https://github.com/anuraghazra/github-readme-stats)
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ismail-lagziri&layout=compact&langs_count=8&card_width=450)](https://github.com/anuraghazra/github-readme-stats)
-  </div>
-</div>
-
 ---  
   
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
@@ -47,6 +39,8 @@
 ---
 
 <h2> 📈 &nbsp;My GitHub History!</h2>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ismail-lagziri&card_width=450)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&langs_count=8&card_width=450)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
   
