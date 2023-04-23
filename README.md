@@ -26,7 +26,7 @@ located_in: Sale, Morocco
 current_job: Student
 education:
   [
-    "Studying for a Degree in Ingénierie des Systèmes d’Information et de la Transformation Digitale",
+    "Studying for a Degree in Information Systems Engineering and Digital Transformation",
     "Preparation classes to the Grandes Ecoles",
     "Baccalauréat in Science Mathématique"
   ]
