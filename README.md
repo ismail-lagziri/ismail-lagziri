@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
-</p>
 
 <h1 align="center">
   Let's Connect and have a Chat!💬
@@ -15,10 +12,54 @@
 </a>
 </p>
 
+<p align="center">
+  <img src= "https://i.pinimg.com/originals/8f/bd/f9/8fbdf9707e2ab475672cb7229c91bf21.gif">
+</p>
+
+---
+
+<h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
+
+```yaml
+name: Ismail Lagziri
+located_in: Sale, Morocco
+current_job: Student
+education:
+  [
+    "Studying for a Degree in Ingénierie des Systèmes d’Information et de la Transformation Digitale",
+    "Preparation classes to the Grandes Ecoles",
+    "Baccalauréat in Science Mathématique"
+  ]
+
+company: N/A
+
+fields_of_interests:
+  [
+    "Conception and Object-Oriented Programming",
+    "Advanced Databases",
+    "Data Analysis",
+    "JEE Software Development",
+    "Machine Learning",
+    "Data Visualization"
+  ]
+
+technical_background:
+  [
+    "Experience in Data Analysis and Machine Learning with Python",
+    "Experience with database management systems",
+    "Knowledge of software development using Java, Spring Framework",
+  ]
+
+currently_learning: ["Docker", "React Native"]
+2023 Goals: ["Create 10+ Projects and learn at least 5 new Technologies."]
+hobbies: ["Cooking", "Cinema", "Reading", "Cultural events"]
+```
+
+
 ---  
   
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
-<p align="left">
+<p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" height="45"/>
@@ -39,11 +80,6 @@
 ---
 
 <h2> 📈 &nbsp;My GitHub History!</h2>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ismail-lagziri&card_width=350)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ismail-lagziri&layout=compact&langs_count=8&card_width=350)](https://github.com/anuraghazra/github-readme-stats)
-
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
-  
-<p align="left">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+<p align="center">
+  <img src="https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
 </p>
