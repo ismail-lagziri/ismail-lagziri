@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src= "https://i.pinimg.com/originals/8f/bd/f9/8fbdf9707e2ab475672cb7229c91bf21.gif">
+  <img src= "https://media.giphy.com/media/SxMS7MfFyT1yeF6MgN/giphy.gif">
 </p>
 
 ---
@@ -23,7 +23,7 @@
 ```yaml
 name: Ismail Lagziri
 located_in: Sale, Morocco
-current_job: Student
+current_position: Software engineering student
 education:
   [
     "Studying for a Degree in Information Systems Engineering and Digital Transformation",
@@ -31,7 +31,7 @@ education:
     "Baccalauréat in Science Mathématique"
   ]
 
-company: N/A
+School: School of Information Sciences-ESI-RABAT
 
 fields_of_interests:
   [
